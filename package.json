@@ -6,7 +6,7 @@
   "typings": "dist/data.d.ts",
   "scripts": {
     "test": "grunt validate",
-    "build": "grunt build"
+    "prepare": "grunt build"
   },
   "repository": {
     "type": "git",
